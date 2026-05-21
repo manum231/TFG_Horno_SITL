@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proyecto TFG
+entorno_tfg/
+vision_artificial/dataset/
+vision_artificial/yolo_dataset/
+vision_artificial/etiquetas_descargadas/
+vision_artificial/runs/
+memoria/
+*.docx
