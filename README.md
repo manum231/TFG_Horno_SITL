@@ -1,6 +1,6 @@
 # TFG Horno SITL — Sistema de Automatización IIoT para Horno de Retractilado
 
-**Trabajo Fin de Grado — Grado en Ingeniería en Sistemas Inteligentes**  
+Trabajo Fin de Grado — Grado en Ingeniería en Sistemas Inteligentes  
 Universidad Intercontinental de la Empresa · 2026  
 Autor: Manuel Mora Rivas
 
