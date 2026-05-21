@@ -223,5 +223,6 @@ vision_artificial/dataset/
 vision_artificial/yolo_dataset/
 vision_artificial/etiquetas_descargadas/
 vision_artificial/runs/
+!vision_artificial/runs/modelo_fandicosta/weights/best.pt
 memoria/
 *.docx
